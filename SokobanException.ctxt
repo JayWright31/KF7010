@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SokobanException
+comment0.text=\n\ A\ problem-specific\ run\ time\ exception\ for\ a\ Sokoban\ puzzle.\n\ \n\ @author\ Dr\ Mark\ C.\ Sinclair\n\ @version\ September\ 2021\n
+comment1.params=msg
+comment1.target=SokobanException(java.lang.String)
+comment1.text=\n\ Constructor\ with\ explanatory\ message\n\ \n\ @param\ message\ the\ explanatory\ message\n
+numComments=2
