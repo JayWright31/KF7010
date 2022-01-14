@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ A\ player\ interface\ for\ a\ Sokoban\ puzzle.\n\ \n\ @author\ Dr\ Mark\ C.\ Sinclair\n\ @version\ September\ 2021\n
+comment1.params=choices
+comment1.target=Direction\ move(java.util.Vector)
+comment1.text=\n\ In\ which\ direction\ should\ the\ actor\ move,\ given\ a\ vector\ of\ choices?\n\ \n\ @param\ choices\ possible\ directions\ for\ the\ player\ to\ choose\ from\n\ @return\ the\ chosen\ direction\n
+numComments=2

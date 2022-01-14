@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Direction
+comment0.text=\n\ Compass\ directions\ in\ a\ Sokoban\ puzzle.\n\ \n\ @author\ Dr\ Mark\ C.\ Sinclair\n\ @version\ September\ 2021\n
+comment1.params=
+comment1.target=Direction\ left()
+comment1.text=\n\ The\ direction\ to\ the\ left\n\ \n\ @return\ dir\ the\ direction\ to\ the\ left\n
+comment2.params=
+comment2.target=Direction\ right()
+comment2.text=\n\ The\ direction\ to\ the\ right\n\ \n\ @return\ dir\ the\ direction\ to\ the\ right\n
+comment3.params=
+comment3.target=Direction\ reverse()
+comment3.text=\n\ The\ direction\ in\ reverse\n\ \n\ @return\ dir\ the\ direction\ in\ reverse\n
+comment4.params=dirString
+comment4.target=Direction\ fromString(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toStringForFile()
+comment5.text=\n\ \n
+numComments=6

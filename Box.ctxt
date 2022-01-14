@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Box
+comment0.text=\n\ A\ box\ in\ a\ Sokoban\ puzzle.\n\ \n\ @author\ Dr\ Mark\ C.\ Sinclair\n\ @version\ September\ 2021\n
+comment1.params=cell
+comment1.target=Box(Cell)
+comment1.text=\n\ Constructor\ with\ cell\ currently\ occupied\n\ \n\ @param\ cell\ the\ cell\ occupied\ by\ this\ box\ (Occupant\ constructor\ checks\ for\ null)\n
+comment2.params=
+comment2.target=boolean\ isBox()
+comment2.text=\n\ Checks\ if\ this\ occupant\ is\ a\ box\n\ \n\ @return\ true\n
+comment3.params=
+comment3.target=char\ getDisplay()
+comment3.text=\n\ Gets\ the\ character\ to\ use\ for\ display\ purposes\ for\ this\ cell\n\ \n\ @return\ character\ to\ use\ for\ display\ purposes\ for\ this\ cell\n
+comment4.params=
+comment4.target=boolean\ onTarget()
+comment4.text=\n\ Checks\ if\ the\ cell\ occupied\ by\ this\ box\ is\ a\ target\n\ \n\ @return\ is\ the\ cell\ occupied\ by\ this\ box\ a\ target?\n
+comment5.params=dir
+comment5.target=boolean\ isStuckSafe(Direction)
+comment5.text=\n\ Check\ if\ this\ box\ is\ safe\ (from\ getting\ stuck\ to\ another\ box)\ is\ it\ moves\ in\ the\ given\ direction\n\ \n\ @param\ dir\ the\ direction\ to\ check\n\ @return\ can\ this\ box\ move\ in\ the\ given\ direction\ without\ getting\ stuck\ on\ another\ box?\n
+comment6.params=dir
+comment6.target=boolean\ canMove(Direction)
+comment6.text=\n\ Checks\ if\ the\ box\ can\ move\ to\ the\ next\ cell\ in\ a\ given\ direction\n\ \n\ @param\ dir\ the\ direction\ to\ check\n\ @return\ can\ the\ box\ \ move\ to\ the\ next\ cell\ in\ a\ given\ direction?\n
+numComments=7
